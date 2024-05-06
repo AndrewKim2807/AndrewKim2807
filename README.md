@@ -1,4 +1,3 @@
-[![MasterHead] (https://gifdb.com/images/high/ai-robot-human-chess-game-zrr2ebxcq1rnkdy5.gif)]
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate Machine Learning Engineer, AI Engineer, Data Analyst, Cybersecurity Engineer, and Big Data Engineer from Indonesia!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
