@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewkim2807&label=Profile%20views&color=0e75b6&style=flat" alt="andrewkim2807" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://andrewkim2807.github.io/andresquee.github.io/](https://andrewkim2807.github.io/andresquee.github.io/)
+- 👨‍💻 All of my projects are available on my website [https://andrewkim2807.github.io/andresquee.github.io/](https://andrewkim2807.github.io/andresquee.github.io/)
 
-- 💬 Ask me about **AI, Machine Learning, Data**
+- 💬 Ask me about **AI, Machine Learning, or Data!**
 
-- 📫 How to reach me **andrew.tanoebrata@gmail.com**
+- 📫 Reach me out at **andrew.tanoebrata@gmail.com**
 
 - ⚡ Fun fact **I am an IT Student who specializes in many fields in Computer Science which makes me so adept at multitasking that I can overfit a model, query a database, fend off a cyber-attack, and process a terabyte of data all while brewing the perfect cup of coffee.**
 
